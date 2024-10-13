@@ -1,0 +1,2 @@
+add spaces to "answer=(3*q-p*p)/3;" between tokens to make it easier to read
+answer = ( 3 * q - p * p ) / 3 ;

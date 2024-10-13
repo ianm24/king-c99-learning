@@ -1,0 +1,5 @@
+the necessary spaces in dweight.c are 
+those in the directive,
+the one between int and main,
+the ones in the string literals,
+and the one between return and 0

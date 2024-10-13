@@ -1,0 +1,1 @@
+yes, because the replaced code would still provide 1 integer

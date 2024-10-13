@@ -1,0 +1,9 @@
+compare scanf format strings
+a) "%d" vs " %d"
+	same
+b) "%d-%d-%d" vs "%d -%d -%d"
+	second requires whitespace between integer and -
+c) "%f" vs "%f "
+	same
+d) "%f,%f" vs "%f, %f"
+	same

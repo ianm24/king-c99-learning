@@ -1,0 +1,2 @@
+9 - ((t-1) % 10) vs 10 - (t % 10)
+the latter setup can get 10 if t=0mod10 but you must ensure only 1 digit

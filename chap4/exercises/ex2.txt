@@ -1,0 +1,2 @@
+yes, thats how math works:
+-1 * (i/j) = (-1*i) / j

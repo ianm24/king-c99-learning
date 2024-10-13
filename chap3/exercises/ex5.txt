@@ -1,0 +1,5 @@
+given scanf("%f%d%f", &x, &i, &y);
+and user input
+12.3 45.6 789
+what will be the values of x,i,y assuming i is int and x,y are float
+x=12.3,i=45,y=0.6
